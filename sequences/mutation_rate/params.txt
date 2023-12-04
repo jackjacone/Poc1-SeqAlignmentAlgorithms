@@ -1,0 +1,5 @@
+seq_size=250
+num_mutated_seqs=20
+epsilon=0.7
+indel_total_rate=0.4
+indel_rate=0.1
